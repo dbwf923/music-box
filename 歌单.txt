@@ -1,0 +1,142 @@
+修改部分
+	命名（歌名 -作者）
+
+
+菜单
+	dc（Da Capo -HOYO-Mix）
+	wx（晚星 -逆时针向）
+
+创造模式 
+	wx（晚星 -逆时针向）
+	ify（无尽幸福 -凌晨一点的莱茵猫）
+
+主世界
+	fsrm（浮生若梦 -逆时针向）
+	hy（海愿 -塞壬唱片）
+	nop（nop -陈越龙）
+	rain（雨 因你而下，于你而止 -Seto）
+	cw（和熙糖果风 -Candy_Wind）
+	fish（fish in the pool・花屋敷 -ヘクとパスカル）
+	ge（The Garden of Escapism (AK Remix) -AK）
+	yl（雲流れ -みかん箱）
+	forgotten（A Forgotten Shade of Life -Xeuphoria）
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	wal（For When You Are Alone -Xeuphoria）
+	tea（星茶会 -灰澈）
+
+末地
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	ayl（Are You Lost -Park Bird）
+
+末影龙战斗
+	soul（SOUL -张星）
+
+结尾名单
+	lzz（LZZ的大作 -作者）
+
+水下
+	rain（雨 因你而下，于你而止 -Seto）
+	fever（Want to be with u 4ever . -Seto）
+	ify（无尽幸福 -凌晨一点的莱茵猫）
+
+沙漠
+	lv（旅 -B站 纽卡のChen）
+	ct（Cave Town -Di-Du-La）
+
+深暗之域 
+	ify（无尽幸福 -凌晨一点的莱茵猫） 
+
+溶洞
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	ify（无尽幸福 -凌晨一点的莱茵猫）
+
+草甸
+	wal（For When You Are Alone -Xeuphoria）
+	jbs（诀别书 -邓垚）
+	eutopia（Eutopia -Yooh）
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+
+丛林
+	gy（谷雨 -桑葚上的猴子）
+	pi（pure imagination -Rook1e）
+
+森林
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	slzxs（森林自习室 -森水垚）
+	yhfy（银河赴约 -网易云音乐校园）
+
+樱花树林
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	sH3（#3："sH3 said she Just 2O &amp; she couldn't do this ANYmore" -黄雨篱）
+
+雪林
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	tqzz（天气之子 -萧楠）
+	rb（Rainy Blue -饭碗的彼岸）	 
+
+针叶林
+	yhfy（银河赴约 -网易云音乐校园）
+	tqzz（天气之子 -萧楠）
+	wxn（我再也没见过 像你一般的星空 -Seto）
+
+繁花树林
+	yhfy（银河赴约 -网易云音乐校园）
+	rml（日暮里 -JINBAO）
+	wxn（我再也没见过 像你一般的星空 -Seto）
+
+竹林
+	coda（Coda -Barbarian On The Groove）
+	fish（fish in the pool・花屋敷 -ヘクとパスカル）
+	fsrm（浮生若梦 -逆时针向）
+
+稀疏丛林
+	yhfy（银河赴约 -网易云音乐校园）
+ 
+沼泽
+	tqzz（天气之子 -萧楠）
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+
+尖峭山峰
+	nop（nop -陈越龙）
+	fsrm（浮生若梦 -逆时针向）
+ 
+裸岩山峰
+	nop（nop -陈越龙）
+	fsrm（浮生若梦 -逆时针向）
+	
+冰封山峰
+	nop（nop -陈越龙）
+	fsrm（浮生若梦 -逆时针向）
+  
+积雪山坡
+	qqcn（连同你群青般的温柔 一起沉溺 -Seto）
+	fsrm（浮生若梦 -逆时针向） 
+
+繁茂洞穴
+	rml（日暮里 -JINBAO）
+	xry（キラメキ-公生とかをりの演奏 -电台）
+
+恶地
+	lei（涙の行方 -I've）
+
+下界荒地
+	txwxzf（踏寻往昔之风 -塞壬唱片）
+	bf（Butterflies -Nohidea）
+	pi（pure imagination -Rook1e）
+
+玄武岩三角洲
+	txwxzf（踏寻往昔之风 -塞壬唱片）
+	bf（Butterflies -Nohidea）
+	pi（pure imagination -Rook1e）
+
+灵魂沙峡谷
+	txwxzf（踏寻往昔之风 -塞壬唱片）
+	bf（Butterflies -Nohidea）
+	pi（pure imagination -Rook1e）
+
+绯红森林
+	txwxzf（踏寻往昔之风 -塞壬唱片）
+	bf（Butterflies -Nohidea）
+	pi（pure imagination -Rook1e） 
+
+
