@@ -1,0 +1,490 @@
+{
+    "music.menu":{
+        "_comment":"菜单",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:dc",
+                "stream":true
+            },
+            {
+                "name":"snk:wx",
+                "stream":true
+            }
+        ]
+    },
+    "music.creative": {
+	    "_comment":"创造模式",  
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:wx",
+                "stream": true
+            },
+            {
+                "name": "snk:ify",
+                "stream": true
+            }
+        ]
+    },
+    "music.game":{
+        "_comment":"主世界",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:fsrm",
+                "stream":true
+            },
+            {
+                "name": "snk:forgotten",
+                "stream": true
+            },
+            {
+                "name":"snk:hy",
+                "stream":true
+            },
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name":"snk:nop",
+                "stream":true
+            },
+            {
+            "name": "snk:rain",
+            "stream": true
+            },
+            {
+            "name": "snk:cw",
+            "stream": true
+            },
+            {
+            "name": "snk:fish",
+            "stream": true
+            },
+            {
+            "name": "snk:ge",
+            "stream": true
+            },
+            {
+            "name": "snk:yl",
+            "stream": true
+            },
+            {
+                "name": "snk:wal",
+                "stream": true
+            },
+            {
+                "name": "snk:tea",
+                "stream": true
+            }
+        ]
+    },
+    "music.end": {
+	    "_comment":"末地",  
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:ayl",
+                "stream": true
+            }
+        ]
+    },
+    "music.dragon": {
+	    "_comment":"末影龙战斗",  
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:soul",
+                "stream": true
+            }
+        ]
+    },
+    "music.credits": {
+	    "_comment":"结尾名单",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:lzz",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.under_water":{
+	    "_comment":"水下",  
+	    "replace": true,
+        "sounds": [
+	        {
+                "name": "snk:rain",
+                "stream": true
+            },
+            {
+                "name": "snk:fever",
+                "stream": true
+            },
+            {
+                "name": "snk:ify",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.desert":{
+	    "_comment":"沙漠",  
+	    "replace": true,
+        "sounds": [
+	        {
+                "name": "snk:lv",
+                "stream": true
+            },
+            {
+                "name": "snk:ct",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.deep_dark":{
+	    "_comment":"深暗之域",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:ify",
+                "stream": true
+            } 
+        ]
+    },
+    "music.overworld.dripstone_caves":{
+	    "_comment":"溶洞",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:ify",
+                "stream": true
+            }   
+        ]
+    },
+    "music.overworld.meadow":{
+	    "_comment":"草甸",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:jbs",
+                "stream": true
+            },
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:eutopia",
+                "stream": true
+            },
+            {
+                "name": "snk:wal",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.jungle":{
+	    "_comment":"丛林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:pi",
+                "stream": true
+            },
+            {
+                "name": "snk:gy",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.forest":{
+	    "_comment":"森林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:slzxs",
+                "stream": true
+            },
+            {
+                "name": "snk:yhfy",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.cherry_grove":{
+	    "_comment":"樱花树林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:sH3",
+                "stream": true
+            }
+        ]  
+    },
+    "music.overworld.grove":{
+	    "_comment":"雪林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:qqcn",
+                "stream": true
+            },
+            {
+                "name": "snk:tqzz",
+                "stream": true
+            },
+	        {
+                "name": "snk:rb",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.old_growth_taiga":{
+	    "_comment":"针叶林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:tqzz",
+                "stream": true
+            },
+            {
+                "name": "snk:wxn",
+                "stream": true
+            },
+            {
+                "name": "snk:yhfy",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.flower_forest":{
+	    "_comment":"繁花树林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:yhfy",
+                "stream": true
+            },
+            {
+                "name": "snk:rml",
+                "stream": true
+            },
+            {
+                "name": "snk:wxn",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.bamboo_jungle":{
+	    "_comment":"竹林",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:fish",
+                "stream": true
+            },
+            {
+                "name": "snk:fsrm",
+                "stream": true
+            },
+            {
+                "name": "snk:coda",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.sparse_jungle":{
+	    "_comment":"稀疏丛林",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "snk:yhfy",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.swamp":{
+	    "_comment":"沼泽",
+        "replace": true,
+        "sounds": [
+            {
+                "name":"snk:tqzz",
+                "stream":true
+            },
+            {
+                "name":"snk:qqcn",
+                "stream":true
+            }
+        ]
+    },
+    "music.overworld.jagged_peaks":{
+	    "_comment":"尖峭山峰" ,
+        "replace": true,
+        "sounds": [
+            {
+                "name":"snk:nop",
+                "stream":true
+            },
+            {
+                "name":"snk:fsrm",
+                "stream":true
+            }
+        ]
+    },
+    "music.overworld.stony_peaks":{
+	    "_comment":"裸岩山峰",
+        "replace": true,
+        "sounds": [
+            {
+                "name":"snk:nop",
+                "stream":true
+            },
+            {
+                "name":"snk:fsrm",
+                "stream":true
+            }
+        ]   
+    },
+    "music.overworld.frozen_peaks":{
+	    "_comment":"冰封山峰",
+        "replace": true,
+        "sounds": [
+            {
+                "name":"snk:nop",
+                "stream":true
+            },
+            {
+                "name":"snk:fsrm",
+                "stream":true
+            }
+        ]
+    },
+    "music.overworld.snowy_slopes":{
+	    "_comment":"积雪山坡",
+        "replace": true,
+        "sounds": [
+            {
+                "name":"snk:qqcn",
+                "stream":true
+            },
+            {
+                "name":"snk:fsrm",
+                "stream":true
+            }
+        ]
+    },
+    "music.overworld.lush_caves":{
+	    "_comment":"繁茂洞穴",  
+	    "replace": true,
+        "sounds": [
+            {
+                "name": "snk:xry",
+                "stream": true
+            },
+            {
+                "name": "snk:rml",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.badlands":{
+	    "_comment":"恶地",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:lei",
+                "stream":true
+            }
+        ]
+    },
+    "music.nether.nether_wastes":{
+        "_comment":"下界荒地",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:txwxzf",
+                "stream":true
+            },
+            {
+                "name":"snk:bf",
+                "stream":true
+            },
+            {
+                "name":"snk:pi",
+                "stream":true
+            }
+        ]
+    },
+    "music.nether.basalt_deltas":{
+	    "_comment":"玄武岩三角洲",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:txwxzf",
+                "stream":true
+            },
+            {
+                "name":"snk:bf",
+                "stream":true
+            },
+            {
+                "name":"snk:pi",
+                "stream":true
+            }
+        ]
+    },
+    "music.nether.soul_sand_valley":{
+	    "_comment":"灵魂沙峡谷",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:txwxzf",
+                "stream":true
+            },
+            {
+                "name":"snk:bf",
+                "stream":true
+            },
+            {
+                "name":"snk:pi",
+                "stream":true
+            }
+        ]
+    },
+    "music.nether.crimson_forest":{
+        "_comment":"绯红森林",
+        "replace":true,
+        "sounds":[
+            {
+                "name":"snk:txwxzf",
+                "stream":true
+            },
+            {
+                "name":"snk:bf",
+                "stream":true
+            },
+            {
+                "name":"snk:pi",
+                "stream":true
+            }
+        ]
+    } 
+}
